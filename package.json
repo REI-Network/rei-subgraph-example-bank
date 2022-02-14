@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bijianing97/REIBank-subgraph.git"
+    "url": "git+https://github.com/REI-Network/rei-subgraph-example-bank.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bijianing97/REIBank-subgraph/issues"
+    "url": "https://github.com/REI-Network/rei-subgraph-example-bank/issues"
   },
-  "homepage": "https://github.com/bijianing97/REIBank-subgraph#readme",
+  "homepage": "https://github.com/REI-Network/rei-subgraph-example-bank#readme",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.4",
     "@nomiclabs/hardhat-truffle5": "^2.0.3",
